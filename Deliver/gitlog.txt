@@ -1,3 +1,9 @@
+commit af5d62606bb8f178ac01e1a685d5fb82a51b54ed (HEAD -> master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:51:15 2020 -0700
+
+    removesignature
+
 commit 98ae00c928ee4c935497513242ff4e47eb72f51d (HEAD -> master)
 Author: Xi Wang <x_wang14@u.pacific.edu>
 Date:   Fri May 1 15:55:57 2020 -0700
