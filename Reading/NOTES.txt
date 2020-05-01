@@ -10,3 +10,8 @@ from: https://risk-engineering.org/static/PDF/slides-linear-regression.pdf
 
 from: https://open.umn.edu/opentextbooks/textbooks/linear-regression-using-r-an-introduction-to-data-modeling
 
+*Beginner'guide to Linear Regression
+https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f
+
+*keras toturial on DNN
+https://www.datacamp.com/community/tutorials/deep-learning-python

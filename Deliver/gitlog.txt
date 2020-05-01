@@ -1,0 +1,29 @@
+commit 98ae00c928ee4c935497513242ff4e47eb72f51d (HEAD -> master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:55:57 2020 -0700
+
+    addreadingmaterials
+
+commit b2e343ca4fe0cfac0289efb316f61a9138e36b50 (HEAD -> master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:53:48 2020 -0700
+
+    Signature
+
+commit 0321f8688b28d3f2c6ab8e84574b66f47afd8dfb (HEAD -> master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:52:45 2020 -0700
+
+    AddingReport
+
+commit 0e3b23983691a6043063ff494317cb8c1d100c43 (HEAD -> master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:51:36 2020 -0700
+
+    Notebookstwofiles
+
+commit 8dc4b63a09450c66edc9b4d41b637feef931b8c1 (HEAD -> master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:49:57 2020 -0700
+
+    initial_files
