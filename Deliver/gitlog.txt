@@ -1,5 +1,11 @@
 *Below is the main step for commits:
 
+commit b1a039372b66087424019971a339d382a01699ec (HEAD -> master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 17:20:40 2020 -0700
+
+    deletecheckpoints
+
 commit af5d62606bb8f178ac01e1a685d5fb82a51b54ed (HEAD -> master)
 Author: Xi Wang <x_wang14@u.pacific.edu>
 Date:   Fri May 1 16:51:15 2020 -0700
