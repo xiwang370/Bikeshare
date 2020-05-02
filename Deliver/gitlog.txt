@@ -1,3 +1,5 @@
+*Below is the main step for commits:
+
 commit af5d62606bb8f178ac01e1a685d5fb82a51b54ed (HEAD -> master)
 Author: Xi Wang <x_wang14@u.pacific.edu>
 Date:   Fri May 1 16:51:15 2020 -0700
@@ -33,3 +35,203 @@ Author: Xi Wang <x_wang14@u.pacific.edu>
 Date:   Fri May 1 15:49:57 2020 -0700
 
     initial_files
+
+
+
+
+
+
+
+
+
+
+*Somehow I play around with the commit and there are many redundant ones, but just in case you want to see I would paste down there:
+
+
+
+commit 33d120ef4e392be30a4a5af44fee08ac7b5267c3 (HEAD -> master, origin/master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:37:31 2020 -0700
+
+    signature
+
+commit 0321f8688b28d3f2c6ab8e84574b66f47afd8dfb
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:52:45 2020 -0700
+
+    AddingReport
+
+commit 0e3b23983691a6043063ff494317cb8c1d100c43
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:51:36 2020 -0700
+
+    Notebookstwofiles
+
+commit 8dc4b63a09450c66edc9b4d41b637feef931b8c1
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:49:57 2020 -0700
+
+    initial_files
+
+~
+~
+~
+~
+~
+~
+~
+commit 33d120ef4e392be30a4a5af44fee08ac7b5267c3 (HEAD -> master, origin/master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:37:31 2020 -0700
+
+    signature
+
+commit 0321f8688b28d3f2c6ab8e84574b66f47afd8dfb
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:52:45 2020 -0700
+commit 33d120ef4e392be30a4a5af44fee08ac7b5267c3 (HEAD -> master, origin/master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:37:31 2020 -0700
+
+    signature
+
+commit 0321f8688b28d3f2c6ab8e84574b66f47afd8dfb
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:52:45 2020 -0700
+
+    AddingReport
+
+commit 33d120ef4e392be30a4a5af44fee08ac7b5267c3 (HEAD -> master, origin/master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:37:31 2020 -0700
+
+    signature
+
+commit 0321f8688b28d3f2c6ab8e84574b66f47afd8dfb
+commit 33d120ef4e392be30a4a5af44fee08ac7b5267c3 (HEAD -> master, origin/master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:37:31 2020 -0700
+
+    signature
+
+commit 0321f8688b28d3f2c6ab8e84574b66f47afd8dfb
+commit 33d120ef4e392be30a4a5af44fee08ac7b5267c3 (HEAD -> master, origin/master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:37:31 2020 -0700
+
+    signature
+
+commit 0321f8688b28d3f2c6ab8e84574b66f47afd8dfb
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:52:45 2020 -0700
+
+    AddingReport
+
+commit 0e3b23983691a6043063ff494317cb8c1d100c43
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:51:36 2020 -0700
+
+    Notebookstwofiles
+
+commit 8dc4b63a09450c66edc9b4d41b637feef931b8c1
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:49:57 2020 -0700
+
+    initial_files
+
+~
+~
+~
+~
+~
+~
+~
+~
+commit af5d62606bb8f178ac01e1a685d5fb82a51b54ed (HEAD -> master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:51:15 2020 -0700
+
+    removesignature
+
+commit 33d120ef4e392be30a4a5af44fee08ac7b5267c3 (origin/master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:37:31 2020 -0700
+
+    signature
+
+commit 0321f8688b28d3f2c6ab8e84574b66f47afd8dfb
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:52:45 2020 -0700
+
+    AddingReport
+
+commit 0e3b23983691a6043063ff494317cb8c1d100c43
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:51:36 2020 -0700
+
+    Notebookstwofiles
+
+commit 8dc4b63a09450c66edc9b4d41b637feef931b8c1
+Author: Xi Wang <x_wang14@u.pacific.edu>
+commit b3669d2e45ad3170706b88b4738b00c6b749cca0 (HEAD -> master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:52:14 2020 -0700
+
+    modifiedgitlog
+
+commit af5d62606bb8f178ac01e1a685d5fb82a51b54ed
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:51:15 2020 -0700
+
+    removesignature
+
+commit 33d120ef4e392be30a4a5af44fee08ac7b5267c3 (origin/master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:37:31 2020 -0700
+
+    signature
+
+commit 0321f8688b28d3f2c6ab8e84574b66f47afd8dfb
+Author: Xi Wang <x_wang14@u.pacific.edu>
+commit b3669d2e45ad3170706b88b4738b00c6b749cca0 (HEAD -> master, origin/master)
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:52:14 2020 -0700
+
+    modifiedgitlog
+
+commit af5d62606bb8f178ac01e1a685d5fb82a51b54ed
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:51:15 2020 -0700
+
+    removesignature
+
+commit 33d120ef4e392be30a4a5af44fee08ac7b5267c3
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 16:37:31 2020 -0700
+
+    signature
+
+commit 0321f8688b28d3f2c6ab8e84574b66f47afd8dfb
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:52:45 2020 -0700
+
+    AddingReport
+
+commit 0e3b23983691a6043063ff494317cb8c1d100c43
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:51:36 2020 -0700
+
+    Notebookstwofiles
+
+commit 8dc4b63a09450c66edc9b4d41b637feef931b8c1
+Author: Xi Wang <x_wang14@u.pacific.edu>
+Date:   Fri May 1 15:49:57 2020 -0700
+
+    initial_files
+
+~
+~
+~
+~
+~
+
